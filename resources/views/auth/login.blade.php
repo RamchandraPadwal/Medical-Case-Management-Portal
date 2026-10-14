@@ -56,17 +56,4 @@
             </x-primary-button>
         </div>
     </form>
-
-    <!-- Reviewer Demo Accounts Helper -->
-    <div class="mt-5 pt-4 border-t border-slate-100 text-xs text-slate-500">
-        <div class="font-semibold text-slate-700 mb-1.5">Demo accounts:</div>
-        <div class="flex justify-between py-0.5">
-            <span>Admin: <code class="text-teal-700 font-medium">admin@example.com</code></span>
-            <span class="text-slate-400 font-mono">password</span>
-        </div>
-        <div class="flex justify-between py-0.5">
-            <span>Viewer: <code class="text-slate-700 font-medium">viewer@example.com</code></span>
-            <span class="text-slate-400 font-mono">password</span>
-        </div>
-    </div>
 </x-guest-layout>
